@@ -4,7 +4,7 @@
 - :mechanical_arm:  Sou estudante de Educação Física Bacharelado e tenhos projetos para unir Tecnologia a Saúde. 
 - 🌱 Estou aprendendo Python, JavaScript, PHP. 
 - 👯 Estou procurando colaborar em Front End e me desenvolver Full Stack.
-- 🤔 Procuro aumentar Networking e uma primeira oportunidade de trabalho.
+- 🤔 Procuro aumentar Networking e uma primeira oportunidade de trabalho CLT.
 
 <div>
   <a href="https://github.com/felipevolpi">
