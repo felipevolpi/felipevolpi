@@ -1,10 +1,17 @@
-### Olá! Seja Bem Vindo! :v::slightly_smiling_face:
+## Olá! Seja Bem Vindo! :v::slightly_smiling_face:
 
 - 🔭 Atualmente trabalho com Freelance de Social Mídia.
 - :mechanical_arm:  Sou estudante de Educação Física Bacharelado e tenhos projetos de unir Tecnologia à Saúde. 
 - 🌱 Estou aprendendo Python, JavaScript, PHP. 
-- 👯 Quero colaborar em Front End, Social Mídia e Editor de Vídeo.
+- 👯 Colaborar em Front End, Social Mídia, Graphic Designer e Editor de Vídeo.
 - :books: Meta é ser Full Stack.
+
+### 💡 Meu diferenciais!!
+- Experiência com marketing, publicidade, propaganda e vendas. 
+- Tenho um olhar diferente para o mercado.
+- Criatividade.
+- Auto didata. 
+- Fácil adaptação e aprendizagem recorrente.  
 <div>  
   <a href="https://github.com/felipevolpi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipevolpi&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
@@ -19,8 +26,11 @@
 </div>
   
   ##
-  :computer_mouse::keyboard: Programas que já domino:    
+    
+  :computer_mouse::keyboard: Programas que já domino:
+   
   <div style="display: inline_block"><br>
+     
   <img align="center" alt="Sony Vegas PRO 17" height="40" width="40" src="https://user-images.githubusercontent.com/86131164/128239776-c7c70ec8-ed45-42bb-a930-a3d9486b9fdb.png">
   <img align="center" alt="Adobe AfterEffects" height="40" width="40" src="https://user-images.githubusercontent.com/86131164/128237297-e9f27d5e-e3c6-4a5b-a9f3-a4776cf67e03.png">
   <img align="center" alt="Adobe Premiere" height="40" width="40" src="https://user-images.githubusercontent.com/86131164/128241251-99bb08ee-3f8a-4c89-9eb5-14f3a06c32c3.png">
@@ -29,7 +39,7 @@
   <img align="center" alt="Adobe Lightroom" height="40" width="40" src="https://user-images.githubusercontent.com/86131164/128240442-f254eea0-b152-49d3-8fd2-d07be515e2ab.png">
   <img align="center" alt="Adobe InDesign" height="40" width="40" src="https://user-images.githubusercontent.com/86131164/128240461-3a05e3ac-70cf-49cd-9dba-c6b1c47fca04.png">
   <img align="center" alt="Corel Draw" height="40" width="40" src="https://user-images.githubusercontent.com/86131164/128241205-f5ff25e6-166f-4151-bb83-8556034841df.png">
-  
+    
  
   ##
     
