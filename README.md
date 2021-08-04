@@ -39,7 +39,7 @@
   <img align="center" alt="Adobe Lightroom" height="40" width="40" src="https://user-images.githubusercontent.com/86131164/128240442-f254eea0-b152-49d3-8fd2-d07be515e2ab.png">
   <img align="center" alt="Adobe InDesign" height="40" width="40" src="https://user-images.githubusercontent.com/86131164/128240461-3a05e3ac-70cf-49cd-9dba-c6b1c47fca04.png">
   <img align="center" alt="Corel Draw" height="40" width="40" src="https://user-images.githubusercontent.com/86131164/128241205-f5ff25e6-166f-4151-bb83-8556034841df.png">
-    
+  </div>
  
   ##
     
