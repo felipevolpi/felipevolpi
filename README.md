@@ -12,7 +12,7 @@
 - Criatividade.
 - Auto didata. 
 - Fácil adaptação e aprendizagem recorrente.  
-- ### Link para meu portifólio: https://felipevolpi.github.io/Portifolio 
+- #### Link para meu portifólio: https://felipevolpi.github.io/Portifolio 
 <div>  
   <a href="https://github.com/felipevolpi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipevolpi&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
