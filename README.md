@@ -10,7 +10,7 @@
 - Experiência com marketing, publicidade, propaganda e vendas. 
 - Tenho um olhar diferente para o mercado.
 - Criatividade.
-- Auto didata. 
+- Autodidata. 
 - Fácil adaptação e aprendizagem recorrente.  
 - #### Link para meu portifólio: https://felipevolpi.github.io/Portifolio 
 <div>  
