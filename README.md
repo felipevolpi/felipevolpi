@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente trabalho com Freelance de Social Mídia.
 - :mechanical_arm:  Sou estudante de Educação Física Bacharelado e tenhos projetos de unir Tecnologia à Saúde. 
-- 🌱 Estou aprendendo Python, JavaScript, PHP. 
+- 🌱 Estou aprendendo Python e JavaScript.
 - 👯 Colaborar em Front End, Social Mídia, Graphic Designer e Editor de Vídeo.
 - :books: Meta é ser Full Stack.
 
@@ -23,7 +23,7 @@
   <img align="center" alt="Felipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Felipe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Felipe-PHP" height="30" width="50" src="https://user-images.githubusercontent.com/86131164/128238787-5b818f47-5a39-44e3-a4db-1840edca2ba4.png">
+  
 </div>
   
   ##
